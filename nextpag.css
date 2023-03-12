@@ -1,0 +1,25 @@
+.end
+{
+    width: 670px;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 2rem;
+}
+
+.prev
+{
+  text-decoration: none;
+  font-size: 2rem;
+  color: rgb(248, 140, 52);
+}
+.prev:hover
+{
+    color:#3989E8;
+}
+.nex
+{
+  text-decoration: none;
+  font-size: 2rem;
+  color: rgb(190, 190, 190);
+}
